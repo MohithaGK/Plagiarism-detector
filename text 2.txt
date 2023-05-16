@@ -1,0 +1,27 @@
+Python Jobs:
+
+Today, Python is very high in demand and all the major companies are looking for great Python Programmers to develop websites, software components, and applications or to work with Data Science, AI, and ML technologies. When we are developing this tutorial in 2022, there is a high shortage of Python Programmers where as market demands more number of Python Programmers due to it's application in Machine Learning, Artificial Intelligence etc.
+
+Today a Python Programmer with 3-5 years of experience is asking for around $150,000 annual package and this is the most demanding programming language in America. Though it can vary depending on the location of the Job. It's impossible to list all of the companies using Python, to name a few big companies are:
+
+Google
+Intel
+NASA
+PayPal
+Facebook
+IBM
+Amazon
+Netflix
+Pinterest
+Uber
+Many more...
+So, you could be the next potential employee for any of these major companies. We have developed a great learning material for you to learn Python Programming which will help you prepare for the technical interviews and certification exams based on Python. So, start learning Python using this simple and effective tutorial from anywhere and anytime absolutely at your pace.
+
+Why to Learn Python?
+Python is consistently rated as one of the world's most popular programming languages. Python is fairly easy to learn, so if you are starting to learn any programming language then Python could be your great choice. Today various Schools, Colleges and Universities are teaching Python as their primary programming language. There are many other good reasons which makes Python as the top choice of any programmer:
+
+Python is Open Source which means its available free of cost.
+Python is simple and so easy to learn
+Python is versatile and can be used to create many different things.
+Python has powerful development libraries include AI, ML etc.
+Python is much in demand and ensures high salary
